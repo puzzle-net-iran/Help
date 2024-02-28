@@ -57,13 +57,7 @@
 15-کانفیگ رایگان #p22014
 لینک : https://github.com/puzzle-net-iran/Free-configuration
 
-16-انواع تانل #p22015
-لینک : https://github.com/puzzle-net-iran/Tunnels
-
-
-
-
-<a href="https://github.com/puzzle-net-iran/Tunnels">انواع تانل #p22015</a>
+<a href="https://github.com/puzzle-net-iran/Tunnels">16-انواع تانل #p22015</a>
 
 
 
