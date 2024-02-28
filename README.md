@@ -25,8 +25,8 @@
 
 <a href="https://github.com/puzzle-net-iran/Windows-software">5-نرم افزار های ویندوز #p22005</a>
 
+<a href="https://github.com/puzzle-net-iran/Mac-software">6-/لینوکس نرم افزار های مک #p22006</a>
 
-<a href="https://github.com/puzzle-net-iran/Mac-software">6-نرم افزار های مک #p22006</a>
 
 
 <a href="https://github.com/puzzle-net-iran/X-UI-panel">7-پنل X-UI ک #p22007</a>
